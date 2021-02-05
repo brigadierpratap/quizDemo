@@ -33,7 +33,7 @@ class Question extends Component {
     return (
       <div>
         <p>{this.props.sound.Question}</p>
-        <img width="25%" height="500rem" src={this.props.sound.pic}></img>
+        <img width="40%%" height="500rem" src={this.props.sound.pic}></img>
       </div>
     );
   }

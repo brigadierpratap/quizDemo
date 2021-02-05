@@ -49,17 +49,19 @@ class Quiz extends Component {
   render() {
     return (
       <>
-        <Question sound={audioClip[this.state.count]} />
-        {audioClip[this.state.count].options.map((o, i) => (
-          <button key={i}>{o}</button>
-        ))}
-        <br />
-        <button
-          onClick={this.handleNextClick}
-          disabled={this.state.count === audioClip.length - 1}
-        >
-          Next
-        </button>
+        <center>
+          <Question sound={audioClip[this.state.count]} />
+          {audioClip[this.state.count].options.map((o, i) => (
+            <button key={i}>{o}</button>
+          ))}
+          <br />
+          <button
+            onClick={this.handleNextClick}
+            disabled={this.state.count === audioClip.length - 1}
+          >
+            Next
+          </button>
+        </center>
       </>
     );
   }
