@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/quizDemo/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/quizDemo/static/js/main.d5357561.chunk.js",
+    "main.js.map": "/quizDemo/static/js/main.d5357561.chunk.js.map",
+    "runtime-main.js": "/quizDemo/static/js/runtime-main.eba1cca8.js",
+    "runtime-main.js.map": "/quizDemo/static/js/runtime-main.eba1cca8.js.map",
+    "static/js/2.a034485f.chunk.js": "/quizDemo/static/js/2.a034485f.chunk.js",
+    "static/js/2.a034485f.chunk.js.map": "/quizDemo/static/js/2.a034485f.chunk.js.map",
+    "static/js/3.0f65eae3.chunk.js": "/quizDemo/static/js/3.0f65eae3.chunk.js",
+    "static/js/3.0f65eae3.chunk.js.map": "/quizDemo/static/js/3.0f65eae3.chunk.js.map",
+    "index.html": "/quizDemo/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/quizDemo/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.a034485f.chunk.js.LICENSE.txt": "/quizDemo/static/js/2.a034485f.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/quizDemo/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.eba1cca8.js",
+    "static/js/2.a034485f.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.d5357561.chunk.js"
+  ]
+}
